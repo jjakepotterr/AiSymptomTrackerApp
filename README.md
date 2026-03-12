@@ -24,7 +24,12 @@ export OPENAI_API_KEY="sk-..."
 export OPENAI_MODEL="gpt-5"
 ```
 
+https://github.com/user-attachments/assets/44f0b8b0-d7ab-446e-b8cf-0dc2bab1677b
+
 ## Run
+
+
+
 ```bash
 streamlit run app.py
 ```
